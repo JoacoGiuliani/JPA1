@@ -1,4 +1,5 @@
 Proyecto JPA con H2
+
 Este proyecto es una implementación de JPA (Java Persistence API) utilizando la base de datos H2. A continuación, se detallan los pasos para descargar, configurar, y ejecutar el proyecto.
 
 Prerrequisitos
